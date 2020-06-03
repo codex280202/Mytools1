@@ -105,7 +105,7 @@ exit
 fi
 
 echo $green"=============================================="
-echo $red  "          AUTHOR" $green"|" $red"PANS SQUAREPANTS          "
+echo $red  "          AUTHOR" $green"|" $red"CoDeX01          "
 echo $yellow"           Team [" $green"THEX-GHOST" $yellow"] Team                  "
 echo                                  $NOW
 echo                                  $TIME
