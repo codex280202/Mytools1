@@ -3,7 +3,7 @@ Hanya Sebagian
 
 Untuk Run 
 $cd Mytools1
-$sh install.sh
+$sh login.sh
 
 Install :
 Pkg update && pkg upgrade
